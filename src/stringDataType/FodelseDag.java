@@ -12,6 +12,7 @@ public class FodelseDag {
 		
 
 	}
+	// method take your birthday datum as a String and convert the first 4 String to int and calculate your birthday year
 	public static String personNum() {
 		System.out.print("enter your person num (yyyymmdd):\n");
 		Scanner input = new Scanner(System.in);	
